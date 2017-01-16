@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "event": {
+        "box_header_text_color": true,
+        "locale": true,
+        "logo": true,
+        "logo_ssl": true,
+        "link_color": true,
+        "box_background_color": true,
+        "box_border_color": true,
+        "timezone": true,
+        "organizer": {
+          "url": true,
+          "description": true,
+          "long_description": true,
+          "id": true,
+          "name": true
+        },
+        "background_color": true,
+        "id": true,
+        "category": true,
+        "box_header_background_color": true,
+        "capacity": true,
+        "num_attendee_rows": true,
+        "title": true,
+        "start_date": true,
+        "status": true,
+        "description": true,
+        "end_date": true,
+        "tags": true,
+        "timezone_offset": true,
+        "text_color": true,
+        "title_text_color": true,
+        "tickets": [
+          {
+            "ticket": {
+              "description": true,
+              "end_date": true,
+              "min": true,
+              "max": true,
+              "price": true,
+              "visible": true,
+              "currency": true,
+              "display_price": true,
+              "type": true,
+              "id": true,
+              "include_fee": true,
+              "name": true
+            }
+          }
+        ],
+        "created": true,
+        "url": true,
+        "box_text_color": true,
+        "privacy": true,
+        "venue": {
+          "city": true,
+          "name": true,
+          "country": true,
+          "region": true,
+          "longitude": true,
+          "postal_code": true,
+          "address_2": true,
+          "address": true,
+          "latitude": true,
+          "country_code": true,
+          "id": true,
+          "Lat-Long": true
+        },
+        "modified": true,
+        "repeats": true
+      }
+    }
+  ]
+}

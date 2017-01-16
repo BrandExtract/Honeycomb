@@ -1,0 +1,2734 @@
+{
+  "events": [
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "box_border_color": "dedede",
+        "timezone": "America/Chicago",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11619587499,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 0,
+        "num_attendee_rows": 1,
+        "title": "Medical Eval and Fit Testing",
+        "start_date": "2014-06-01 16:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eEnerges is excited to provide our customers with a respirator fit testing service to ensure employees are prepared to work in a variety of dangerous atmospheres.\u00a0 Quantitative Analysis with multiple respirator types and brands.\u00a0 Let us ensure your workforce is prepared for the hazards they face.\u003c/P\u003e\r\n\u003cP\u003eThis service is provided on the same day as PEC SafeLandUSA and H2S Safety Awareness to allow customers the ability to receive all 3 trainings/services in a single day.\u003c/P\u003e",
+        "end_date": "2014-06-01 18:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-06-01 15:30:00",
+              "min": 1,
+              "max": null,
+              "price": "122.32",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "115.00",
+              "type": 0,
+              "id": 25764125,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-06-01 15:30:00",
+              "min": 1,
+              "max": null,
+              "price": "159.24",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "150.00",
+              "type": 0,
+              "id": 26458775,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-13 08:09:10",
+        "url": "https://www.eventbrite.com/e/medical-eval-and-fit-testing-tickets-11619587499?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Marion",
+          "name": "Energes Marion Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.157837,
+          "postal_code": "78124",
+          "address_2": "",
+          "address": "11895 W Interstate 10",
+          "latitude": 29.511522,
+          "country_code": "US",
+          "id": 7590513,
+          "Lat-Long": "29.511522 / -98.157837"
+        },
+        "modified": "2014-12-29 11:51:19",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6915623/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 12229957131,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 10,
+        "num_attendee_rows": 6,
+        "title": "Confined Space Awareness",
+        "start_date": "2014-07-14 10:00:00",
+        "status": "Draft",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2014-07-14 16:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-14 09:00:00",
+              "min": 1,
+              "max": null,
+              "price": "370.24",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "350.00",
+              "type": 0,
+              "id": 26978041,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-14 10:30:00",
+              "min": 1,
+              "max": null,
+              "price": "422.99",
+              "visible": "true",
+              "start_date": "2014-07-14 00:00:00",
+              "currency": "USD",
+              "display_price": "400.00",
+              "type": 0,
+              "id": 26978043,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-07-09 13:53:17",
+        "url": "https://www.eventbrite.com/e/confined-space-awareness-tickets-12229957131?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Monahans",
+          "name": "Holiday Inn Express Conference Room",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -102.887944,
+          "postal_code": "79756",
+          "address_2": "",
+          "address": "108 W 19th St",
+          "latitude": 31.577416,
+          "country_code": "US",
+          "id": 7327269,
+          "Lat-Long": "31.577416 / -102.887944"
+        },
+        "modified": "2014-07-22 14:33:16",
+        "logo_ssl": "https://cdn.evbuc.com/images/6915623/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6915761/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 12230061443,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 10,
+        "num_attendee_rows": 4,
+        "title": "PEC SafeLand Certification",
+        "start_date": "2014-07-15 08:00:00",
+        "status": "Draft",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003eThe SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight to ten hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2014-07-15 17:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-15 07:00:00",
+              "min": 1,
+              "max": null,
+              "price": "185.62",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "175.00",
+              "type": 0,
+              "id": 26978165,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-15 08:30:00",
+              "min": 1,
+              "max": null,
+              "price": "238.37",
+              "visible": "true",
+              "start_date": "2014-07-15 00:00:00",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 26978167,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-07-09 13:58:54",
+        "url": "https://www.eventbrite.com/e/pec-safeland-certification-tickets-12230061443?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Monahans",
+          "name": "Holiday Inn Express Conference Room",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -102.887944,
+          "postal_code": "79756",
+          "address_2": "",
+          "address": "108 W 19th St",
+          "latitude": 31.577416,
+          "country_code": "US",
+          "id": 7327269,
+          "Lat-Long": "31.577416 / -102.887944"
+        },
+        "modified": "2014-07-22 14:34:17",
+        "logo_ssl": "https://cdn.evbuc.com/images/6915761/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6890731/98009848843/3/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11611114155,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "H2S Certification",
+        "start_date": "2014-07-15 15:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eHydrogen Sulfide (H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS) is an extremely dangerous gas that can be found in serveral industries, including the Oil and Gas Industry.\u00a0 This course provides the awareness level training needed to understand the dangers of H\u003cSPAN STYLE=\"font-size: x-small;\"\u003e2\u003c/SPAN\u003eS, how to work safely around H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS, and what to do if there is a release.\u00a0 This course prepares workers to work on sites and in facilities where H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS may be present.\u00a0 Taught by trained and competent instructors who understand the dangers found in the Energy Industry.\u003c/P\u003e",
+        "end_date": "2014-07-15 16:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-15 14:30:00",
+              "min": 1,
+              "max": null,
+              "price": "80.12",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "75.00",
+              "type": 0,
+              "id": 25746977,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-07-15 14:30:00",
+              "min": 1,
+              "max": null,
+              "price": "106.49",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "100.00",
+              "type": 0,
+              "id": 26356047,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-12 14:56:59",
+        "url": "https://www.eventbrite.com/e/h2s-certification-tickets-11611114155?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Energes Jourdanton Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 6666957,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2014-09-01 04:42:18",
+        "logo_ssl": "https://cdn.evbuc.com/images/6890731/98009848843/3/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6890927/98009848843/2/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11619535343,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 50,
+        "num_attendee_rows": 0,
+        "title": "Medical Evaluation \u0026 Fit Testing",
+        "start_date": "2014-08-01 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eEnerges is excited to provide our customers with a respirator fit testing service to ensure employees are prepared to work in a variety of dangerous atmospheres.\u00a0 Prior to fit testing, individuals must complete a medical questionaire, which is reviewed by a medical professional to ensure each person is medically fit to wear a respirator.\u00a0 We accomplish this through an electronic questionaire, administered privately and securely, which is reviewed by a medical professional and the results are available within minutes.\u00a0 Let us help you ensure your employees are fit and ready to work in a variety of dangerous atmospheres.\u003c/P\u003e",
+        "end_date": "2014-08-01 17:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-01 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "122.32",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "115.00",
+              "type": 0,
+              "id": 25764203,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-01 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "159.24",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "150.00",
+              "type": 0,
+              "id": 26458707,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-13 08:06:12",
+        "url": "https://www.eventbrite.com/e/medical-evaluation-fit-testing-tickets-11619535343?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Energes Jourdanton Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 6666957,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2014-09-01 04:42:16",
+        "logo_ssl": "https://cdn.evbuc.com/images/6890927/98009848843/2/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/7199833/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11809437345,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 12,
+        "num_attendee_rows": 0,
+        "title": "First Aid/CPR/AED Training",
+        "start_date": "2014-08-04 08:00:00",
+        "status": "Completed",
+        "description": "\u003cP DIR=\"LTR\" ALIGN=\"JUSTIFY\"\u003ePossessing the life saving skills associated with First Aid, CPR and AED use is a valuable skill set for both work environments and home life. Students who attend our course are better equipped to respond to life-threatening situations, when response time is critical. An untrained person responding to a First Aid or CPR situation can cause more harm than good; which is why being properly trained is so important.\u003c/P\u003e\r\n\u003cP DIR=\"LTR\" ALIGN=\"JUSTIFY\"\u003eOur courses last approximately 6 hours, with a strict limit on participants to ensure ample instructor time and interaction with each student. Our qualified instructors walk students through the theories, laws, and best practices in a lecture and Q \u0026amp; A fashion before delving into the hands-on instruction necessary to demonstrate competence.\u003c/P\u003e\r\n\u003cP DIR=\"LTR\" ALIGN=\"JUSTIFY\"\u003eUpon completion of the MEDIC First Aid/CPR/AED course, students who pass the written and hands-on exams shall receive a certification in the course.\u003c/P\u003e",
+        "end_date": "2014-08-04 15:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-04 07:00:00",
+              "min": 1,
+              "max": 12,
+              "price": "122.32",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "115.00",
+              "type": 0,
+              "id": 26157923,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-04 07:59:00",
+              "min": 1,
+              "max": 12,
+              "price": "143.42",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "135.00",
+              "type": 0,
+              "id": 26458879,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-30 13:50:42",
+        "url": "https://www.eventbrite.com/e/first-aidcpraed-training-tickets-11809437345?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Marion",
+          "name": "Marion Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.157837,
+          "postal_code": "78124",
+          "address_2": "",
+          "address": "11895 W Interstate 10",
+          "latitude": 29.511522,
+          "country_code": "US",
+          "id": 6884557,
+          "Lat-Long": "29.511522 / -98.157837"
+        },
+        "modified": "2014-11-01 04:38:58",
+        "logo_ssl": "https://cdn.evbuc.com/images/7199833/98009848843/1/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6890589/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11809413273,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 1,
+        "title": "PEC SafeLand Certification",
+        "start_date": "2014-08-05 07:00:00",
+        "status": "Draft",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003eThe SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight to ten hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-06 15:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-05 06:00:00",
+              "min": 1,
+              "max": null,
+              "price": "185.62",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "175.00",
+              "type": 0,
+              "id": 26157821,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-05 06:00:00",
+              "min": 1,
+              "max": null,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 26458663,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-30 13:48:37",
+        "url": "https://www.eventbrite.com/e/pec-safeland-certification-tickets-11809413273?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369935,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2014-12-12 12:57:16",
+        "logo_ssl": "https://cdn.evbuc.com/images/6890589/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/7199657/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 12487922713,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 1,
+        "title": "H2S Certification",
+        "start_date": "2014-08-05 15:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eHydrogen Sulfide (H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS) is an extremely dangerous gas that can be found in serveral industries, including the Oil and Gas Industry.\u00a0 This course provides the awareness level training needed to understand the dangers of H\u003cSPAN STYLE=\"font-size: x-small;\"\u003e2\u003c/SPAN\u003eS, how to work safely around H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS, and what to do if there is a release.\u00a0 This course prepares workers to work on sites and in facilities where H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS may be present.\u00a0 Taught by trained and competent instructors who understand the dangers found in the Energy Industry.\u003c/P\u003e",
+        "end_date": "2014-08-05 16:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-05 14:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "80.12",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "75.00",
+              "type": 0,
+              "id": 27516931,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-05 15:29:00",
+              "min": 1,
+              "max": 25,
+              "price": "106.49",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "100.00",
+              "type": 0,
+              "id": 27516933,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-08-01 06:31:05",
+        "url": "https://www.eventbrite.com/e/h2s-certification-tickets-12487922713?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Marion",
+          "name": "Energes Marion Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.157837,
+          "postal_code": "78124",
+          "address_2": "",
+          "address": "11895 W Interstate 10",
+          "latitude": 29.511522,
+          "country_code": "US",
+          "id": 7590513,
+          "Lat-Long": "29.511522 / -98.157837"
+        },
+        "modified": "2014-11-02 03:21:52",
+        "logo_ssl": "https://cdn.evbuc.com/images/7199657/98009848843/1/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6890993/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11809489501,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Awareness",
+        "start_date": "2014-08-06 08:00:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2014-08-06 15:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-06 07:00:00",
+              "min": 1,
+              "max": null,
+              "price": "370.24",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "350.00",
+              "type": 0,
+              "id": 26158019,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-06 07:59:00",
+              "min": 1,
+              "max": null,
+              "price": "422.99",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "400.00",
+              "type": 0,
+              "id": 26458923,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-30 13:55:15",
+        "url": "https://www.eventbrite.com/e/confined-space-awareness-tickets-11809489501?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Marion",
+          "name": "Marion Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.157837,
+          "postal_code": "78124",
+          "address_2": "",
+          "address": "11895 W Interstate 10",
+          "latitude": 29.511522,
+          "country_code": "US",
+          "id": 6884557,
+          "Lat-Long": "29.511522 / -98.157837"
+        },
+        "modified": "2014-11-01 04:38:58",
+        "logo_ssl": "https://cdn.evbuc.com/images/6890993/98009848843/1/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/6891147/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 11809513573,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 1,
+        "title": "Fall Protection Training",
+        "start_date": "2014-08-08 07:00:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eFall Protection Training is a vital part of keeping employees safe on the job.\u00a0 Our course provides students with an understanding of fall protection principals, equipment options available for different scenarios, what to look for during inspections, how to properly wear restraint and arrest systems, and discussion on having a rescue plan in place before you start working at height.\u00a0 Covering both General Industry and Construction standards (29CFR1910 and 29CFR1926), our course prepares your team to stay in compliance and protected when working at height.\u003c/P\u003e",
+        "end_date": "2014-08-08 17:00:00",
+        "tags": "",
+        "timezone_offset": "GMT-0500",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-08 06:00:00",
+              "min": 1,
+              "max": null,
+              "price": "175.00",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "175.00",
+              "type": 0,
+              "id": 26158057,
+              "include_fee": "true",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2014-08-08 06:59:00",
+              "min": 1,
+              "max": null,
+              "price": "211.99",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "200.00",
+              "type": 0,
+              "id": 26458903,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-05-30 13:57:10",
+        "url": "https://www.eventbrite.com/e/fall-protection-training-tickets-11809513573?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Marion",
+          "name": "Marion Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.157837,
+          "postal_code": "78124",
+          "address_2": "",
+          "address": "11895 W Interstate 10",
+          "latitude": 29.511522,
+          "country_code": "US",
+          "id": 6884557,
+          "Lat-Long": "29.511522 / -98.157837"
+        },
+        "modified": "2015-01-12 16:40:25",
+        "logo_ssl": "https://cdn.evbuc.com/images/6891147/98009848843/1/logo.png",
+        "repeats": "yes"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925217728,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-06 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-06 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-06 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082876,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-06 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082888,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925217728?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-06 20:33:44",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925218731,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-07 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-07 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-07 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082877,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-07 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082889,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925218731?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-07 20:34:05",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925219734,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-08 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-08 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-08 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082878,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-08 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082890,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925219734?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-08 20:34:33",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925291950,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Training",
+        "start_date": "2015-01-09 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2015-01-09 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "Discounted rate for early registration",
+              "end_date": "2015-01-09 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32083058,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-09 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "264.74",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "250.00",
+              "type": 0,
+              "id": 32083063,
+              "include_fee": "false",
+              "name": "Day of Event Price"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:47:27",
+        "url": "https://www.eventbrite.com/e/confined-space-training-tickets-14925291950?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9370573,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-09 16:34:56",
+        "logo_ssl": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925220737,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-13 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-13 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-13 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082879,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-13 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082891,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925220737?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-13 20:36:07",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925221740,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-14 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-14 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082880,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082892,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925221740?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-14 20:36:08",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11935507/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14950932642,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-14 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-14 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 14:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32132188,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 14:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32132189,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-15 14:59:17",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14950932642?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Houston",
+          "name": "PEC Training Center",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -95.716924,
+          "postal_code": "77084",
+          "address_2": "Suite 475",
+          "address": "1718 Fry Rd",
+          "latitude": 29.791159,
+          "country_code": "US",
+          "id": 9381684,
+          "Lat-Long": "29.791159 / -95.716924"
+        },
+        "modified": "2015-01-14 20:35:50",
+        "logo_ssl": "https://cdn.evbuc.com/images/11935507/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11935587/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14951160323,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 50,
+        "num_attendee_rows": 0,
+        "title": "Medical Evaluation \u0026 Fit Testing",
+        "start_date": "2015-01-14 12:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eEnerges is excited to provide our customers with a respirator fit testing service to ensure employees are prepared to work in a variety of dangerous atmospheres.\u00a0 Prior to fit testing, individuals must complete a medical questionaire, which is reviewed by a medical professional to ensure each person is medically fit to wear a respirator.\u00a0 We accomplish this through an electronic questionaire, administered privately and securely, which is reviewed by a medical professional and the results are available within minutes.\u00a0 Let us help you ensure your employees are fit and ready to work in a variety of dangerous atmospheres.\u003c/P\u003e",
+        "end_date": "2015-01-14 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 11:30:00",
+              "min": 1,
+              "max": null,
+              "price": "122.32",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "115.00",
+              "type": 0,
+              "id": 32134804,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-14 11:30:00",
+              "min": 1,
+              "max": null,
+              "price": "143.42",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "135.00",
+              "type": 0,
+              "id": 32134806,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-12-15 15:12:30",
+        "url": "https://www.eventbrite.com/e/medical-evaluation-fit-testing-tickets-14951160323?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Houston",
+          "name": "PEC Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -95.716924,
+          "postal_code": "77084",
+          "address_2": "Suite 475",
+          "address": "1718 Fry Rd",
+          "latitude": 29.791159,
+          "country_code": "US",
+          "id": 9381719,
+          "Lat-Long": "29.791159 / -95.716924"
+        },
+        "modified": "2015-01-14 16:36:14",
+        "logo_ssl": "https://cdn.evbuc.com/images/11935587/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925222743,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-15 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-15 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082881,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082893,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925222743?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-15 20:36:50",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11935533/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14950972762,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "H2S Awareness",
+        "start_date": "2015-01-15 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eHydrogen Sulfide (H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS) is an extremely dangerous gas that can be found in serveral industries, including the Oil and Gas Industry.\u00a0 This course provides the awareness level training needed to understand the dangers of H\u003cSPAN STYLE=\"font-size: x-small;\"\u003e2\u003c/SPAN\u003eS, how to work safely around H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS, and what to do if there is a release.\u00a0 This course prepares workers to work on sites and in facilities where H\u003cSPAN STYLE=\"font-size: xx-small;\"\u003e2\u003c/SPAN\u003eS may be present.\u00a0 Taught by trained and competent instructors who understand the dangers found in the Energy Industry.\u003c/P\u003e",
+        "end_date": "2015-01-15 12:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 11:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "80.12",
+              "visible": "true",
+              "start_date": "2014-08-01 14:30:00",
+              "currency": "USD",
+              "display_price": "75.00",
+              "type": 0,
+              "id": 32132254,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 12:29:00",
+              "min": 1,
+              "max": 25,
+              "price": "106.49",
+              "visible": "true",
+              "start_date": "2014-08-01 15:29:00",
+              "currency": "USD",
+              "display_price": "100.00",
+              "type": 0,
+              "id": 32132255,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-12-15 15:03:25",
+        "url": "https://www.eventbrite.com/e/h2s-awareness-tickets-14950972762?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Houston",
+          "name": "PEC Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -95.716924,
+          "postal_code": "77084",
+          "address_2": "Suite 475",
+          "address": "1718 Fry Rd",
+          "latitude": 29.791159,
+          "country_code": "US",
+          "id": 9381719,
+          "Lat-Long": "29.791159 / -95.716924"
+        },
+        "modified": "2015-01-15 16:36:32",
+        "logo_ssl": "https://cdn.evbuc.com/images/11935533/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11935587/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14951161326,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 50,
+        "num_attendee_rows": 0,
+        "title": "Medical Evaluation \u0026 Fit Testing",
+        "start_date": "2015-01-15 12:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eEnerges is excited to provide our customers with a respirator fit testing service to ensure employees are prepared to work in a variety of dangerous atmospheres.\u00a0 Prior to fit testing, individuals must complete a medical questionaire, which is reviewed by a medical professional to ensure each person is medically fit to wear a respirator.\u00a0 We accomplish this through an electronic questionaire, administered privately and securely, which is reviewed by a medical professional and the results are available within minutes.\u00a0 Let us help you ensure your employees are fit and ready to work in a variety of dangerous atmospheres.\u003c/P\u003e",
+        "end_date": "2015-01-15 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 11:30:00",
+              "min": 1,
+              "max": null,
+              "price": "122.32",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "115.00",
+              "type": 0,
+              "id": 32134805,
+              "include_fee": "false",
+              "name": "Cost per person, Early Bird Pre-enrollment"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-15 11:30:00",
+              "min": 1,
+              "max": null,
+              "price": "143.42",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "135.00",
+              "type": 0,
+              "id": 32134807,
+              "include_fee": "false",
+              "name": "Cost per person, Day of Event"
+            }
+          }
+        ],
+        "created": "2014-12-15 15:12:30",
+        "url": "https://www.eventbrite.com/e/medical-evaluation-fit-testing-tickets-14951161326?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Houston",
+          "name": "PEC Training Facility",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -95.716924,
+          "postal_code": "77084",
+          "address_2": "Suite 475",
+          "address": "1718 Fry Rd",
+          "latitude": 29.791159,
+          "country_code": "US",
+          "id": 9381719,
+          "Lat-Long": "29.791159 / -95.716924"
+        },
+        "modified": "2015-01-15 16:36:32",
+        "logo_ssl": "https://cdn.evbuc.com/images/11935587/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925292953,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Training",
+        "start_date": "2015-01-16 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2015-01-16 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "Discounted rate for early registration",
+              "end_date": "2015-01-16 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32083059,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-16 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "264.74",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "250.00",
+              "type": 0,
+              "id": 32083064,
+              "include_fee": "false",
+              "name": "Day of Event Price"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:47:28",
+        "url": "https://www.eventbrite.com/e/confined-space-training-tickets-14925292953?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9370573,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-16 16:36:08",
+        "logo_ssl": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925223746,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-20 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-20 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-20 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082882,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-20 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082894,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:12",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925223746?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-20 20:36:49",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925224749,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-21 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-21 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-21 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082883,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-21 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082895,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:13",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925224749?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-21 20:36:53",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925225752,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-22 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-22 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-22 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082884,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-22 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082896,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:13",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925225752?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-22 20:37:03",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925293956,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Training",
+        "start_date": "2015-01-23 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2015-01-23 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "Discounted rate for early registration",
+              "end_date": "2015-01-23 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32083060,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-23 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "264.74",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "250.00",
+              "type": 0,
+              "id": 32083065,
+              "include_fee": "false",
+              "name": "Day of Event Price"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:47:28",
+        "url": "https://www.eventbrite.com/e/confined-space-training-tickets-14925293956?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9370573,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-23 16:37:15",
+        "logo_ssl": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925226755,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-27 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-27 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-27 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082885,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-27 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082897,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:13",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925226755?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-27 20:37:37",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925227758,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-28 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-28 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-28 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082886,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-28 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082898,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:13",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925227758?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-28 20:37:46",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925228761,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "PEC Basic SafeLandUSA",
+        "start_date": "2015-01-29 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003e\u003cSPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\"\u003ePEC Basic SafeLandUSA course covers twenty three main topics, and several other minor topics, at the awareness level. Courses are limited to twenty five students per instructor to ensure quality interface between the students and instructors. All instructors are qualified through PEC to be SafeLandUSA instructors. Courses usually last eight\u00a0 hours, depending on the number of participants.\u00a0\u003c/SPAN\u003e\u003c/P\u003e",
+        "end_date": "2015-01-29 15:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-29 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32082887,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-29 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "270.02",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "255.00",
+              "type": 0,
+              "id": 32082899,
+              "include_fee": "false",
+              "name": "Day of Event Pricing"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:44:13",
+        "url": "https://www.eventbrite.com/e/pec-basic-safelandusa-tickets-14925228761?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E. St",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9369972,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-29 20:37:57",
+        "logo_ssl": "https://cdn.evbuc.com/images/11921840/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925294959,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Training",
+        "start_date": "2015-01-30 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2015-01-30 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "Discounted rate for early registration",
+              "end_date": "2015-01-30 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32083061,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-01-30 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "264.74",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "250.00",
+              "type": 0,
+              "id": 32083066,
+              "include_fee": "false",
+              "name": "Day of Event Price"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:47:28",
+        "url": "https://www.eventbrite.com/e/confined-space-training-tickets-14925294959?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9370573,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-01-30 16:37:57",
+        "logo_ssl": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    },
+    {
+      "event": {
+        "box_header_text_color": "404040",
+        "locale": "en_US",
+        "link_color": "0f90ba",
+        "box_background_color": "ffffff",
+        "timezone": "America/Chicago",
+        "box_border_color": "dedede",
+        "logo": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "organizer": {
+          "url": "https://www.eventbrite.com/o/energes-6434159031",
+          "description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "long_description": "Energes is a dynamically structured company, focused on providing innovative and integrated service solutions for the Oil \u0026 Gas Industry. Our product lines range from Chokes \u0026 Flowback services to Well Testing \u0026 Production services, as well as providing Early Production Facilities. In direct support of these services, we also provide our customers with Full-Service Safety Solutions and Water Transfer \u0026 Fluids Management. Each unique product line fulfills the clients\u2019 diverse needs and can be implemented separately or integrated together for a single, seamless solution. Safety \u0026 Quality are the driving forces behind our performance and we strive to achieve customer service excellence.",
+          "id": 6434159031,
+          "name": "Energes"
+        },
+        "background_color": "f7f7f7",
+        "id": 14925295962,
+        "category": "",
+        "box_header_background_color": "fafafa",
+        "capacity": 25,
+        "num_attendee_rows": 0,
+        "title": "Confined Space Training",
+        "start_date": "2015-02-06 08:30:00",
+        "status": "Completed",
+        "description": "\u003cP\u003eConfined Space training is critical to ensuring safe operations.\u00a0 Our course is designed to teach students the key pricipals of Confined Space including: Identifying confined spaces, regulations surrounding entry, job responsibilities of Entrants, Attendents, and Supervisors, differentiating between permit-required and non-permit-required confined spaces, rescue equipment and rescue principals.\u00a0 Book a class today and help keep your employees safe and in compliance.\u003c/P\u003e",
+        "end_date": "2015-02-06 14:30:00",
+        "tags": "",
+        "timezone_offset": "GMT-0600",
+        "text_color": "404040",
+        "title_text_color": "",
+        "tickets": [
+          {
+            "ticket": {
+              "description": "Discounted rate for early registration",
+              "end_date": "2015-02-06 07:30:00",
+              "min": 1,
+              "max": 25,
+              "price": "238.37",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "225.00",
+              "type": 0,
+              "id": 32083062,
+              "include_fee": "false",
+              "name": "Early Registration Discount Rate"
+            }
+          },
+          {
+            "ticket": {
+              "description": "",
+              "end_date": "2015-02-06 07:30:00",
+              "min": 1,
+              "max": null,
+              "price": "264.74",
+              "visible": "true",
+              "currency": "USD",
+              "display_price": "250.00",
+              "type": 0,
+              "id": 32083067,
+              "include_fee": "false",
+              "name": "Day of Event Price"
+            }
+          }
+        ],
+        "created": "2014-12-12 12:47:28",
+        "url": "https://www.eventbrite.com/e/confined-space-training-tickets-14925295962?ref=ebapi",
+        "box_text_color": "666666",
+        "privacy": "Public",
+        "venue": {
+          "city": "Jourdanton",
+          "name": "Jourdanton",
+          "country": "United States",
+          "region": "TX",
+          "longitude": -98.537964,
+          "postal_code": "78026",
+          "address_2": "",
+          "address": "1438 E Street",
+          "latitude": 28.929283,
+          "country_code": "US",
+          "id": 9370573,
+          "Lat-Long": "28.929283 / -98.537964"
+        },
+        "modified": "2015-02-06 16:38:21",
+        "logo_ssl": "https://cdn.evbuc.com/images/11922553/98009848843/1/logo.png",
+        "repeats": "no"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "honeycomb",
+  "version": "0.1.0",
+  "description": "Honeycomb",
+  "main": "honeycomb.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Son Tran-Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
