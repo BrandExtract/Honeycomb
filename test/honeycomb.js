@@ -1,28 +1,30 @@
 var assert = require('assert');
-var Honeycomb = require('../honeycomb'), generate = Honeycomb.generate;
+var Honeycomb = require('../honeycomb'),
+    honeycomb = new Honeycomb(),
+    parse = honeycomb.parse.bind(honeycomb);
 var fixture = require('./fixture/organizer_list_events.json');
-var generated_fixture = require('./fixture/organizer_list_events.generated.json');
+var parsed_fixture = require('./fixture/organizer_list_events.parsed.json');
 
 describe('Honeycomb', function() {
-  describe('#generate()', function() {
+  describe('#parse()', function() {
     it('should return true for primitives', function() {
-      assert.equal(true, generate(true));
-      assert.equal(true, generate(false));
-      assert.equal(true, generate(""));
-      assert.equal(true, generate("foo"));
-      assert.equal(true, generate(0));
-      assert.equal(true, generate(1));
-      assert.equal(true, generate(100));
-      assert.equal(true, generate(null));
-      assert.equal(true, generate(undefined));
+      assert.equal(true, parse(true));
+      assert.equal(true, parse(false));
+      assert.equal(true, parse(""));
+      assert.equal(true, parse("foo"));
+      assert.equal(true, parse(0));
+      assert.equal(true, parse(1));
+      assert.equal(true, parse(100));
+      assert.equal(true, parse(null));
+      assert.equal(true, parse(undefined));
     });
 
     it('should return the key with value `true` for simple object', function() {
-      assert.deepEqual({"foo": true}, generate({"foo": "bar"}));
-      assert.deepEqual({"foo": true, "bar": true}, generate({"foo": "bar", "bar": "barz"}));
+      assert.deepEqual({"foo": true}, parse({"foo": "bar"}));
+      assert.deepEqual({"foo": true, "bar": true}, parse({"foo": "bar", "bar": "barz"}));
     });
 
-    it('should return an array of single generate for an array of simple objects', function() {
+    it('should return an array of single filter for an array of simple objects', function() {
       var data = [{
         "foo": "1",
         "bar": "2"
@@ -36,10 +38,10 @@ describe('Honeycomb', function() {
         "bar": true
       }];
       
-      assert.deepEqual(expected, generate(data));
+      assert.deepEqual(expected, parse(data));
     });
 
-    it('should return an array of single generate with all possible keys for an array of simple objects', function() {
+    it('should return an array of single filter with all possible keys for an array of simple objects', function() {
       var data = [{
         "foo": "1"
       }, {
@@ -52,10 +54,10 @@ describe('Honeycomb', function() {
         "bar": true
       }];
 
-      assert.deepEqual(expected, generate(data));
+      assert.deepEqual(expected, parse(data));
     });
 
-    it('should generate nested objects', function() {
+    it('should parse nested objects', function() {
       var data = {
         "entries": [{
           "foo": "1"
@@ -76,11 +78,11 @@ describe('Honeycomb', function() {
         }]
       };
 
-      assert.deepEqual(expected, generate(data));
+      assert.deepEqual(expected, parse(data));
     });
 
     it('should handle complex data', function() {
-      assert.deepEqual(generated_fixture, generate(fixture));
+      assert.deepEqual(parsed_fixture, parse(fixture));
     });
   });
 });
