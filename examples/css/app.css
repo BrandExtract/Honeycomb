@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', 'Courier', monospace;
+}
+
+header {
+  display: flex;
+  background-color: rgb(35, 9, 198);
+  color: white;
+  padding: 0.5em 1em;
+}
+
+header h1 {
+  margin: 0;
+}
+
+form#loader {
+  background-color: rgb(54, 165, 253);
+  padding: 0.5em 1em;
+}
+
+input[name="url"] {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-radius: 0;
+  color: #FFFFFF;
+  font-size: 1em;
+}
+
+input[name="url"]::-webkit-input-placeholder { 
+  color: rgb(159, 212, 255);
+}
+input[name="url"]:-moz-placeholder { 
+  /* Firefox 18- */ 
+  color: rgb(159, 212, 255);
+}
+input[name="url"]::-moz-placeholder { 
+  /* Firefox 19+ */ 
+  color: rgb(159, 212, 255);
+}
+input[name="url"]:-ms-input-placeholder { 
+  color: rgb(159, 212, 255);
+}
