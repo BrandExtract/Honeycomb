@@ -29,6 +29,7 @@ jQuery(function($) {
         'plugins' : [ 'checkbox', 'changed' ]
       })
     }).fail(function() {
+      $mask.html('');
       $.jstree.destroy();
     });
 
