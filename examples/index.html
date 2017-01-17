@@ -7,17 +7,29 @@
   <link rel="stylesheet" href="css/app.css" />
 </head>
 <body>
-  <header>
+  <header class="container">
     <h1>Honeycomb</h1>
   </header>
 
-  <form id="loader">
+  <form id="loader" class="container">
     <input type="url" name="url" placeholder="Enter API request URL here" />
   </form>
 
-  <form id="results">
+  <div class="flexbox space-between container">
+    <div class="w-50">
+      <h2>Tree</h2>
+      <form id="results">
 
-  </form>
+      </form>
+    </div>
+
+    <div class="w-50">
+      <h2>Mask</h2>
+      <pre id="mask">
+
+      </pre>
+    </div>
+  </div>
   
   <script src="js/jquery-3.1.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>

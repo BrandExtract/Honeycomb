@@ -3,11 +3,14 @@ body {
   font-family: 'Source Code Pro', 'Courier', monospace;
 }
 
+.container {
+  padding: 0.5em 1em;
+}
+
 header {
   display: flex;
   background-color: rgb(35, 9, 198);
   color: white;
-  padding: 0.5em 1em;
 }
 
 header h1 {
@@ -16,7 +19,6 @@ header h1 {
 
 form#loader {
   background-color: rgb(54, 165, 253);
-  padding: 0.5em 1em;
 }
 
 input[name="url"] {
@@ -42,4 +44,16 @@ input[name="url"]::-moz-placeholder {
 }
 input[name="url"]:-ms-input-placeholder { 
   color: rgb(159, 212, 255);
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
 }

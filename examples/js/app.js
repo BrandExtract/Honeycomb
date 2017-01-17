@@ -1,18 +1,24 @@
 jQuery(function($) {
-  var $loader = $('#loader'), $results = $('#results');
+  var $loader = $('#loader'), 
+      $results = $('#results'),
+      $mask = $('#mask');
+
   var honeycomb = new Honeycomb();
 
   $loader.on('submit.api', function() {
-    var form = this, url = form.url.value;
+    var form = this, url = form.url.value || '';
     
     $.ajax({
-      url: url,
+      url: url.replace(/https?:/, ''),
       dataType: 'jsonp'
     }).done(function(data) {
-      var filter = honeycomb.parse(data);
-      var tree = honeycomb.toTree(filter, function(node) {
+      window.json = data;
+      var mask = window.mask = honeycomb.parse(data);
+      var tree = window.tree = honeycomb.toTree(mask, function(node) {
         node.icon = false;
       });
+
+      $mask.html(JSON.stringify(mask, null, 2));
       
       $.jstree.destroy();
       $results.jstree({
@@ -20,7 +26,7 @@ jQuery(function($) {
           'check_callback' : true,
           'data': tree
         },
-        'plugins' : [ 'sort', 'checkbox', 'changed' ]
+        'plugins' : [ 'checkbox', 'changed' ]
       })
     }).fail(function() {
       $.jstree.destroy();
