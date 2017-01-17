@@ -55,7 +55,7 @@
       }
 
       branch.state = {
-        selected: value === true,
+        selected: value !== false,
         opened: !isPrimitive
       }
 

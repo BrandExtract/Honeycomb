@@ -158,7 +158,7 @@ describe('Honeycomb', function() {
       var expectedTree = [{
         "text": "foo",
         "state": {
-          "selected": false, // Because the value is object.
+          "selected": true, // Because the value is not false.
           "opened": true // Because the value is object.
         },
         "children": [{
@@ -207,7 +207,7 @@ describe('Honeycomb', function() {
       var expectedTree = [{
         "text": "foo",
         "state": {
-          "selected": false,
+          "selected": true, // Because the value is not false
           "opened": true
         },
         "children": [{
