@@ -5,6 +5,10 @@
     }
 
     if (Honeycomb.isArray(honey)) {
+      if (honey.every(Honeycomb.isPrimitive)) {
+        return true;
+      };
+
       // Merges all possible properties into a single object.
       return honey.reduce(function(acc, obj) {
         var resultObject = acc[0];

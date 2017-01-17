@@ -58,6 +58,18 @@ describe('Honeycomb', function() {
       assert.deepStrictEqual(parse(data), expected);
     });
 
+    it('should, however, return true for an array of primitives', function() {
+      var data = {
+        "foo": [1, "bar", false]
+      };
+
+      var expected = {
+        "foo": true
+      }
+
+      assert.deepStrictEqual(parse(data), expected);
+    });
+
     it('should parse nested objects', function() {
       var data = {
         "entries": [{
