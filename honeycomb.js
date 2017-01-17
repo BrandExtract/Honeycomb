@@ -1,12 +1,11 @@
 (function(window){
   function parse(honey) {
     if (Honeycomb.isPrimitive(honey)) {
-      // Primitive types.
       return true;
     }
 
     if (Honeycomb.isArray(honey)) {
-      // Array
+      // Merges all possible properties into a single object.
       return honey.reduce(function(acc, obj) {
         var resultObject = acc[0];
         acc[0] = doParse(obj, resultObject);
@@ -14,6 +13,7 @@
       }, [{}]);
     }
 
+    // Parses into an object.
     return doParse(honey, {});
   }
 
@@ -34,9 +34,13 @@
 
     var branches = [];
 
+    // For each property of the object, we create a node/branch.
+    // An object will become an array of nodes/branches.
     for (var key in obj) {
       if (!obj.hasOwnProperty(key)) continue;
-      var value = obj[key], 
+      var value = obj[key],
+          // Checking primitive here is simpler, since there can only
+          // be true/false value for each filter.
           isPrimitive = (value === true || value === false);
       
       var branch = {};
@@ -67,6 +71,13 @@
    * @typedef honey
    * @type primitive|Object.<string, honey>
    */
+  
+  /**
+   * Callback for constructing each tree node.
+   *
+   * @callback nodeCallback
+   * @param {json} node - A node in the tree.
+   */
 
   /**
    * Creates a new Honeycomb.
@@ -85,6 +96,15 @@
   */
   Honeycomb.prototype.parse = parse;
 
+  /**
+   * Constructs a filter object/array into a tree.
+   * 
+   * This tree can be used by `jstree`.
+   * 
+   * @param {json} filter - The filter object.
+   * @param {nodeCallback} [callback] - A callback for each node to further process.
+   * @returns {json} - The tree object.
+  */
   Honeycomb.prototype.toTree = toTree;
 
   Honeycomb.isArray = Array.isArray;
