@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var mocha = require('gulp-mocha');
 
 gulp.task('default', function() {
-  gulp.watch(['lib/**', 'test/**'], ['test']);
+  gulp.watch(['honeycomb.js', 'lib/**', 'test/**'], ['test']);
 });
 
 gulp.task('test', function() {
