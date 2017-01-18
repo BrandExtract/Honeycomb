@@ -66,7 +66,9 @@ pre, .pre {
 }
 
 #results li {
-  overflow: hidden;
+  border-left: 1px dashed gray;
+  text-indent: -9px;
+  list-style: none;
 }
 
 #results input ~ ol {
