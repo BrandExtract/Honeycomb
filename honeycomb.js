@@ -50,6 +50,13 @@
       var branch = {};
       branch.text = key;
 
+      if (Honeycomb.isArray(value)) {
+        // When value is an array, we only convert the first child to 
+        // tree, but we want to indicate that by the text.
+        // The callee can remove it if desired through the callback.
+        branch.text += '[]';
+      }
+
       if (!isPrimitive) {
         branch.children = toTree(value, callback);
       }

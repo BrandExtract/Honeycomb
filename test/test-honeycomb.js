@@ -205,7 +205,7 @@ describe('Honeycomb', function() {
       }); // returns {"foo": [{"bar": 1, "barz": 2}]}
 
       var expectedTree = [{
-        "text": "foo",
+        "text": "foo[]",
         "state": {
           "selected": true, // Because the value is not false
           "opened": true
@@ -230,6 +230,7 @@ describe('Honeycomb', function() {
 
     it('should take a callback for each node', function() {
       var filter = parse({"foo": { "bar": 1 }});
+
       var expectedTree = [{
         "text": "foo",
         "icon": false,

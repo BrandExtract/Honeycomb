@@ -46,6 +46,37 @@ input[name="url"]:-ms-input-placeholder {
   color: rgb(159, 212, 255);
 }
 
+ol, ul {
+  padding-left: 1.5em;
+  margin: 0;
+}
+
+pre, .pre {
+  font-family: monospace;
+}
+
+#results:before, #results:after {
+  display: block;
+}
+#results:before {
+  content: '{';
+}
+#results:after {
+  content: '}';
+}
+
+#results li {
+  overflow: hidden;
+}
+
+#results input ~ ol {
+  max-height: 0;
+}
+
+#results input:checked ~ ol {
+  max-height: 100em;
+}
+
 .w-50 {
   width: 50%;
 }
