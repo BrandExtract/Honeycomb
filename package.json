@@ -7,7 +7,7 @@
     "test": "./node_modules/mocha/bin/mocha"
   },
   "author": "Son Tran-Nguyen",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-mocha": "^3.0.1",
